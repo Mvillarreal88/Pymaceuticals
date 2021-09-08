@@ -1,6 +1,6 @@
 # Pymaceuticals Analysis
 
-In  the Pymaceuticals Analysis we look to evaluate different mice from the csv file that we are pulling. We then look to extract necessary Data and present the results in various charts and visuals.
+In  the Pymaceuticals Analysis we look to evaluate different mice from the csv file that we are pulling. We then attempt to extract necessary Data and present the results in various charts and visuals.
 
 ### We look to accomplish the following
 
